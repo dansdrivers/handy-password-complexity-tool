@@ -1,0 +1,1 @@
+# handy-password-complexity-tool
